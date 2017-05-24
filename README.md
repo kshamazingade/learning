@@ -1,2 +1,0 @@
-# learning
-Python learning projects
